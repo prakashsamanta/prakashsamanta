@@ -11,7 +11,7 @@ I am a second year Data Science student at [RKMVERI](https://rkmvu.ac.in/), Belu
 
  **I am open to**:
 
-- Any Collobration Work
+- Any Collabration Work
 - Research Internships
 
 ## Skills:
