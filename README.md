@@ -65,7 +65,7 @@ I am a second year Data Science student at [RKMVERI](https://rkmvu.ac.in/), Belu
 <p align="center">
 <a href="https://github.com/prakashsamanta">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakashsamanta&theme=2077"/>
-  <img height="180em" width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prakashsamanta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em"  width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prakashsamanta&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
