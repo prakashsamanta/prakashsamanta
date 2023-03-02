@@ -56,7 +56,7 @@ I am a second year Data Science candidate at [RKMVERI](https://rkmvu.ac.in/), Be
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/kaggle-%702e2a.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/prakashsamanta)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=white">](https://https://github.com/prakashsamanta/prakashsamanta.github.io)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=orange">](https://https://github.com/prakashsamanta/prakashsamanta.github.io)
 [<img src="https://img.shields.io/badge/linkedin-%b15db3.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/prakashsamanta/)
 [<img src="https://img.shields.io/badge/medium-%378c41.svg?&style=for-the-badge&logo=medium&logoColor=white&color=green" />](https://medium.com/@prakashsamanta)
 </p>
