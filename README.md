@@ -18,7 +18,7 @@ I am a second year Data Science candidate at [RKMVERI](https://rkmvu.ac.in/), Be
 
 #### Languages:
 
-![R](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 #### ML/DL
