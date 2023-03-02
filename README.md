@@ -61,13 +61,11 @@ I am a second year Data Science student at [RKMVERI](https://rkmvu.ac.in/), Belu
 [<img src="https://img.shields.io/badge/medium-%378c41.svg?&style=for-the-badge&logo=medium&logoColor=white&color=green" />](https://medium.com/@prakashsamanta)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashsamanta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prakash's's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsamanta&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=prakahsamanta&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=prakashsamanta&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakashsamanta&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsamanta&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+## Github Stats
+<p align="center">
+<a href="https://github.com/prakashsamanta">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakashsamanta&theme=2077"/>
+  <img height="180em" width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prakashsamanta&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
