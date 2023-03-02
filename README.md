@@ -1,6 +1,6 @@
 ### Hi there, I'm [Prakash Samanta](https://prakashsamanta.github.io) 👋
 
-I am a second year Data Science candidate at [RKMVERI](https://rkmvu.ac.in/), Belur, West Bengal.
+I am a second year Data Science student at [RKMVERI](https://rkmvu.ac.in/), Belur, West Bengal.
 
 **My Reseach Interest**:
 - Statistics
