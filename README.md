@@ -30,7 +30,7 @@ I am a second year Data Science candidate at [RKMVERI](https://rkmvu.ac.in/), Be
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![Pytorch](https://img.shields.io/badge/Pytorch-6955E2?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![NLTK](https://img.shields.io/badge/NLTK-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white);
+![NLTK](https://img.shields.io/badge/NLTK-%EA7237.svg?style=for-the-badge&logo=plotly&logoColor=white);
 
 
 #### Database
