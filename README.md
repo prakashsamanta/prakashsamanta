@@ -44,11 +44,11 @@ I am a second year Data Science candidate at [RKMVERI](https://rkmvu.ac.in/), Be
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/Pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![RStudio](https://img.shields.io/badge/RStudio-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![RStudio](https://img.shields.io/badge/RStudio-9B468D.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft%20Powerpoint-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-D95117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-B6CE55.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft%20Powerpoint-475058.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
 ## Connect with me:
