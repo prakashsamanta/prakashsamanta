@@ -26,10 +26,10 @@ I am a second year Data Science candidate at [RKMVERI](https://rkmvu.ac.in/), Be
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white);
-![Seaborn](https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white);
+![Seaborn](https://img.shields.io/badge/Seaborn-%D99208.svg?style=for-the-badge&logo=plotly&logoColor=white);
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![Pytorch](https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Pytorch](https://img.shields.io/badge/Pytorch-6955E2?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![NLTK](https://img.shields.io/badge/NLTK-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white);
 
 
