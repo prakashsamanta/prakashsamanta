@@ -4,8 +4,8 @@ I am a second year Data Science student at [RKMVERI](https://rkmvu.ac.in/), Belu
 
 **My Reseach Interest**:
 - Statistics
-- Time Series Analysis
 - Machine Learning
+- Time Series Analysis
 - Natural Language Processing
 - Finance
 
